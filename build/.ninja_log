@@ -1,5 +1,5 @@
 # ninja log v7
-8	32	1794534235033917741	/home/april/Documents/Projects/Rainic/build/CMakeFiles/cmake.verify_globs	d9f927028118636
+13	36	1794534338110984721	/home/april/Documents/Projects/Rainic/build/CMakeFiles/cmake.verify_globs	d9f927028118636
 27	692	1794527342676300241	external/SDL/CMakeFiles/SDL_uclibc.dir/src/libm/k_tan.c.o	9b50a7f437ce4c16
 26	694	1794527342675312334	external/SDL/CMakeFiles/SDL_uclibc.dir/src/libm/e_sqrt.c.o	bf618d1d9c5b65ac
 27	706	1794527342676684829	external/SDL/CMakeFiles/SDL_uclibc.dir/src/libm/s_copysign.c.o	13b693535a0819eb
@@ -134,7 +134,7 @@
 1634	1722	1794527344370947421	/home/april/Documents/Projects/Rainic/build/external/SDL/wayland-generated-protocols/xdg-shell-client-protocol.h	41023c855550a4b4
 1722	1728	1794527344375947518	external/SDL/wayland-generated-protocols/xdg-shell-protocol.c	32ec35f97e10abfa
 1722	1728	1794527344375947518	/home/april/Documents/Projects/Rainic/build/external/SDL/wayland-generated-protocols/xdg-shell-protocol.c	32ec35f97e10abfa
-39	340	1794534235064918062	CMakeFiles/Rainic.dir/src/main.cpp.o	7be43177ce84cbd0
+50	291	1794534338147985104	CMakeFiles/Rainic.dir/src/main.cpp.o	7be43177ce84cbd0
 1728	2828	1794527344377610475	external/SDL/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.o	9b3794e831824cc4
 1728	3104	1794527344376947537	external/SDL/CMakeFiles/SDL3-shared.dir/cmake_pch.h.pch	7c8921f61c933ad0
 3105	3236	1794527345753974183	external/SDL/CMakeFiles/SDL3-shared.dir/src/SDL_error.c.o	f442aed70fd7719c
@@ -453,7 +453,4 @@
 7433	7831	1794527350081057901	Debug/libSDL3.so.0.5.0	2fc31b967d463425
 7832	7850	1794527350480065620	Debug/libSDL3.so.0	161a72eb68badb40
 7832	7850	1794527350480065620	Debug/libSDL3.so	161a72eb68badb40
-340	434	1794534235365921178	Debug/Rainic	278280f470f2646d
-13	36	1794534338110984721	/home/april/Documents/Projects/Rainic/build/CMakeFiles/cmake.verify_globs	d9f927028118636
-50	291	1794534338147985104	CMakeFiles/Rainic.dir/src/main.cpp.o	7be43177ce84cbd0
 291	374	1794534338388987599	Debug/Rainic	278280f470f2646d
