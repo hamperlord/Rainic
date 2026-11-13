@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Rainic.dir/link.d CMakeFiles/Rainic.dir/src/main.cpp.o -o Rainic  -Wl,-rpath,/home/april/Documents/Projects/Rainic/build libSDL3.so.0.5.0

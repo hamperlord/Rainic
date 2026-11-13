@@ -1,0 +1,8 @@
+/home/april/Documents/Projects/Rainic/build/CMakeFiles/Rainic.dir
+/home/april/Documents/Projects/Rainic/build/CMakeFiles/edit_cache.dir
+/home/april/Documents/Projects/Rainic/build/CMakeFiles/rebuild_cache.dir
+/home/april/Documents/Projects/Rainic/build/external/SDL/CMakeFiles/SDL3-shared.dir
+/home/april/Documents/Projects/Rainic/build/external/SDL/CMakeFiles/SDL3_test.dir
+/home/april/Documents/Projects/Rainic/build/external/SDL/CMakeFiles/SDL_uclibc.dir
+/home/april/Documents/Projects/Rainic/build/external/SDL/CMakeFiles/edit_cache.dir
+/home/april/Documents/Projects/Rainic/build/external/SDL/CMakeFiles/rebuild_cache.dir
